@@ -181,3 +181,8 @@ a {
 .message-list .date, .ToDoSidebarItem__Info > ul > li {
     color: #7b7b7b !important;
 }
+
+
+code{
+    color: #2DF7E7 !important;
+}
